@@ -1,0 +1,45 @@
+---
+title: "Before You Arrive"
+---
+
+The afternoon sessions are hands-on, so please arrive with a working
+coding agent you can drive from your own laptop.
+
+## 1. Sign up for a coding agent
+
+Pick one (any will work for the workshop):
+
+- [Claude Code](https://claude.com/claude-code) — CLI and IDE agent from
+  Anthropic
+- [GitHub Copilot](https://github.com/features/copilot) — includes an
+  agent mode in VS Code and a CLI
+- [Gemini CLI](https://github.com/google-gemini/gemini-cli) — Google's
+  open-source terminal agent
+- [Codex](https://openai.com/codex/) — OpenAI's coding agent
+
+Most offer free tiers or trials; a paid tier will give you more headroom
+for the afternoon deep dives.
+
+## 2. Verify it works
+
+Before the workshop, confirm that you can:
+
+1. Open a terminal (or IDE) and start your agent
+2. Point it at a small project or empty directory
+3. Ask it to make a change and see the result
+
+If you can do that, you're ready.
+
+## 3. Bring
+
+- A laptop with your agent installed and authenticated
+- A GitHub account
+- Ideas! The afternoon includes deep dives on projects *you* care
+  about — a package you maintain, a workflow you want to automate, an
+  analysis you want to scaffold.
+
+::: {.callout-note}
+Questions or trouble getting set up? Open an issue on the
+[workshop repository](https://github.com/Bioconductor/agentic-ai-workshop-2026-boston/issues)
+and we'll help before the day.
+:::

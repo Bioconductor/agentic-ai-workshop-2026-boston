@@ -1,0 +1,112 @@
+/*-- scss:defaults --*/
+
+// Bioconductor brand accents on a deep navy base
+$bioc-blue:  #1a81c2;   // Bioconductor logo blue
+$bioc-green: #87b13f;   // Bioconductor logo green
+$deep-navy:  #0d2740;
+
+$primary:   $bioc-blue;
+$secondary: $bioc-green;
+
+$navbar-bg: $deep-navy;
+$navbar-fg: #dce7f2;
+$navbar-hl: #ffffff;
+
+$link-color: darken($bioc-blue, 8%);
+$code-color: darken($bioc-blue, 12%);
+
+$font-family-sans-serif: "Inter", -apple-system, "Segoe UI", Roboto,
+  "Helvetica Neue", Arial, sans-serif;
+$headings-font-weight: 650;
+
+/*-- scss:rules --*/
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;650;800&display=swap");
+
+// Navbar: deep navy with a thin Bioconductor-green keel line
+.navbar {
+  border-bottom: 3px solid $bioc-green;
+  .navbar-brand {
+    font-weight: 800;
+    letter-spacing: 0.01em;
+  }
+}
+
+// Headings pick up the deep navy, with a green tick on h2
+h1, h2, h3 {
+  color: $deep-navy;
+}
+h2 {
+  border-bottom: none;
+  padding-left: 0.55rem;
+  border-left: 4px solid $bioc-green;
+}
+
+// Hero banner on the landing page
+.hero {
+  background: linear-gradient(135deg, $deep-navy 0%, #14456e 60%, $bioc-blue 100%);
+  color: #f2f7fc;
+  border-radius: 0.75rem;
+  padding: 2.5rem 2.25rem;
+  margin: 0.5rem 0 2rem 0;
+
+  h1 {
+    color: #ffffff;
+    font-weight: 800;
+    margin-top: 0;
+    margin-bottom: 0.75rem;
+  }
+  .hero-meta {
+    font-size: 1.15rem;
+    font-weight: 500;
+    color: #cfe3f5;
+    span {
+      white-space: nowrap;
+    }
+    .dot {
+      color: $bioc-green;
+      padding: 0 0.5rem;
+      font-weight: 800;
+    }
+  }
+}
+
+// Schedule tables
+table.schedule, .schedule table {
+  width: 100%;
+  th {
+    background: $deep-navy;
+    color: #ffffff;
+  }
+  td:first-child {
+    white-space: nowrap;
+    font-weight: 600;
+    color: darken($bioc-blue, 10%);
+    width: 9.5rem;
+  }
+  tr:hover td {
+    background: rgba($bioc-blue, 0.06);
+  }
+}
+
+// Callouts lean on the brand accents
+.callout.callout-style-default.callout-important {
+  border-left-color: $bioc-green !important;
+  > .callout-header {
+    background-color: rgba($bioc-green, 0.18) !important;
+  }
+  .callout-icon::before {
+    filter: hue-rotate(250deg) saturate(0.7);
+  }
+}
+
+.btn-bioc {
+  background-color: $bioc-green;
+  border: none;
+  color: #ffffff;
+  font-weight: 650;
+  &:hover {
+    background-color: darken($bioc-green, 8%);
+    color: #ffffff;
+  }
+}

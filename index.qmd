@@ -1,0 +1,45 @@
+---
+title: ""
+---
+
+::: {.hero}
+# Agentic AI Workshop for Bioconductor and R
+
+::: {.hero-meta}
+[July 31, 2026]{} [·]{.dot} [8:00 AM – 5:00 PM]{} [·]{.dot} [Dana-Farber Cancer Institute, Boston, MA]{}
+:::
+:::
+
+A one-day, hands-on workshop on agentic AI for the Bioconductor and R
+community — what coding agents are, how to use them effectively, and how
+they can accelerate package development and developer workflows.
+
+The morning is didactic: an introduction to agents, followed by skills,
+MCP, and effective use of agents and sub-agents. The afternoon is
+hands-on: agents building real projects, a focus group on Bioconductor
+and developer activities, and small-group deep dives on projects you
+care about.
+
+::: {.callout-important}
+## Before you arrive
+
+Sign up for a coding agent for your own use **before the workshop** —
+you'll need it for the afternoon sessions. See
+[Before You Arrive](setup.qmd) for options and details.
+:::
+
+## Logistics
+
+|  |  |
+|---|---|
+| **Date** | Thursday, July 31, 2026 |
+| **Time** | 8:00 AM – 5:00 PM |
+| **Venue** | Dana-Farber Cancer Institute, Boston, MA *(room details to follow)* |
+
+: {tbl-colwidths="[25,75]"}
+
+## Code of Conduct
+
+This event is governed by the
+[Bioconductor Code of Conduct](https://bioconductor.org/about/code-of-conduct/).
+By participating, you agree to abide by its terms.
