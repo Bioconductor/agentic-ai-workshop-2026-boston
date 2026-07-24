@@ -38,7 +38,15 @@ This event is governed by the
 [Bioconductor Code of Conduct](https://bioconductor.org/about/code-of-conduct/).
 By participating, you agree to abide by its terms.
 
----
+## Website
 
-*This repository will grow into a Quarto website with full workshop
-materials. Watch this space.*
+**<https://bioconductor.github.io/agentic-ai-workshop-2026-boston/>**
+
+The site is a [Quarto](https://quarto.org) website, published
+automatically from `main` via GitHub Actions. To preview locally:
+`quarto preview`.
+
+## Contributing & License
+
+See [CONTRIBUTING.md](CONTRIBUTING.md). All content is dedicated to the
+public domain under [CC0 1.0](LICENSE).
