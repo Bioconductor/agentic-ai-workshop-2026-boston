@@ -9,6 +9,7 @@ website:
   description: "Agentic AI Workshop for Bioconductor and R — July 31, 2026, Dana-Farber Cancer Institute, Boston"
   site-url: https://bioconductor.github.io/agentic-ai-workshop-2026-boston/
   repo-url: https://github.com/Bioconductor/agentic-ai-workshop-2026-boston
+  google-analytics: "G-KLLV1GCF4E"
   navbar:
     pinned: true
     left:
