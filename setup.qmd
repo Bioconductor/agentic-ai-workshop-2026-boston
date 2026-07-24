@@ -13,8 +13,8 @@ Pick one (any will work for the workshop):
   Anthropic
 - [GitHub Copilot](https://github.com/features/copilot) — includes an
   agent mode in VS Code and a CLI
-- [Gemini CLI](https://github.com/google-gemini/gemini-cli) — Google's
-  open-source terminal agent
+- [Antigravity](https://antigravity.google/) — Google's agent-first
+  development platform
 - [Codex](https://openai.com/codex/) — OpenAI's coding agent
 
 Most offer free tiers or trials; a paid tier will give you more headroom
