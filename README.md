@@ -8,7 +8,7 @@ community — what coding agents are, how to use them effectively, and how
 they can accelerate package development and developer workflows.
 
 > **Prerequisite:** Sign up for a coding agent for your own use *before*
-> the workshop (e.g., Claude Code, GitHub Copilot CLI, Gemini CLI, or
+> the workshop (e.g., Claude Code, GitHub Copilot CLI, Antigravity CLI, or
 > Codex). You'll need it for the afternoon sessions.
 
 ## Schedule
