@@ -6,8 +6,14 @@ title: ""
 # Agentic AI Workshop for Bioconductor and R
 
 ::: {.hero-meta}
-[July 31, 2026]{} [·]{.dot} [8:00 AM – 5:00 PM]{} [·]{.dot} [Dana-Farber Cancer Institute, Boston, MA]{}
+[July 31, 2026]{} [·]{.dot} [8:00 AM – 5:00 PM]{} [·]{.dot} [Maxwell Dworkin, Harvard University, Cambridge, MA]{}
 :::
+:::
+
+::: {.callout-tip}
+## Registration is open
+Registration is open through **Monday, July 27 at 12:00 noon ET**.
+[Register here](https://docs.google.com/forms/d/e/1FAIpQLScFbdc5EZHSD-PC_8bO1GEUMRSrXS3ccEV2PpNvBRvl12osBA/viewform).
 :::
 
 A one-day, hands-on workshop on agentic AI for the Bioconductor and R
@@ -34,9 +40,26 @@ you'll need it for the afternoon sessions. See
 |---|---|
 | **Date** | Thursday, July 31, 2026 |
 | **Time** | 8:00 AM – 5:00 PM |
-| **Venue** | Dana-Farber Cancer Institute, Boston, MA *(room details to follow)* |
+| **Venue** | Maxwell Dworkin, Room 234 |
+| **Address** | 33 Oxford St, Cambridge, MA 02138 ([Google Maps](https://www.google.com/maps/search/?api=1&query=Maxwell+Dworkin%2C+33+Oxford+St%2C+Cambridge%2C+MA+02138)) |
+| **Registration** | Open through Monday, July 27 at 12:00 noon ET — [register here](https://docs.google.com/forms/d/e/1FAIpQLScFbdc5EZHSD-PC_8bO1GEUMRSrXS3ccEV2PpNvBRvl12osBA/viewform) |
 
 : {tbl-colwidths="[25,75]"}
+
+## Getting there
+
+Maxwell Dworkin is on Harvard's Cambridge campus, a short walk from the
+Harvard Square MBTA station (Red Line).
+
+```{=html}
+<iframe
+  src="https://www.google.com/maps?q=Maxwell+Dworkin,+33+Oxford+St,+Cambridge,+MA+02138&output=embed"
+  width="100%" height="400" style="border:0; border-radius: 8px;"
+  loading="lazy" referrerpolicy="no-referrer-when-downgrade"
+  title="Map: Maxwell Dworkin, 33 Oxford St, Cambridge, MA 02138"></iframe>
+```
+
+[Open in Google Maps](https://www.google.com/maps/search/?api=1&query=Maxwell+Dworkin%2C+33+Oxford+St%2C+Cambridge%2C+MA+02138)
 
 ## Code of Conduct
 

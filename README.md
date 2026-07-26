@@ -1,7 +1,10 @@
 # Agentic AI Workshop for Bioconductor and R
 
 **July 31, 2026 · 8:00 AM – 5:00 PM**
-Dana-Farber Cancer Institute, Boston, MA *(room details to follow)*
+Maxwell Dworkin, Room 234 · [33 Oxford St, Cambridge, MA 02138](https://www.google.com/maps/search/?api=1&query=Maxwell+Dworkin%2C+33+Oxford+St%2C+Cambridge%2C+MA+02138)
+
+**[Registration](https://docs.google.com/forms/d/e/1FAIpQLScFbdc5EZHSD-PC_8bO1GEUMRSrXS3ccEV2PpNvBRvl12osBA/viewform)
+is open through Monday, July 27 at 12:00 noon ET.**
 
 A one-day, hands-on workshop on agentic AI for the Bioconductor and R
 community — what coding agents are, how to use them effectively, and how
