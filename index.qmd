@@ -11,9 +11,7 @@ title: ""
 :::
 
 ::: {.callout-tip}
-## Registration is open
-Registration is open through **Monday, July 27 at 12:00 noon ET**.
-[Register here](https://docs.google.com/forms/d/e/1FAIpQLScFbdc5EZHSD-PC_8bO1GEUMRSrXS3ccEV2PpNvBRvl12osBA/viewform).
+## Registration is now CLOSED.
 :::
 
 A one-day, hands-on workshop on agentic AI for the Bioconductor and R
