@@ -20,8 +20,8 @@ website:
       - href: setup.qmd
         text: Before You Arrive
     right:
-      - href: https://docs.google.com/forms/d/e/1FAIpQLScFbdc5EZHSD-PC_8bO1GEUMRSrXS3ccEV2PpNvBRvl12osBA/viewform
-        text: Register
+      - href: https://talks.seandavis.net
+        text: Presented Materials
       - href: https://bioconductor.org/about/code-of-conduct/
         text: Code of Conduct
       - icon: github
