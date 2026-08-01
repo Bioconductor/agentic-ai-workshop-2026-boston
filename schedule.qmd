@@ -6,6 +6,8 @@ All times US Eastern. July 31, 2026, Maxwell Dworkin Room 234, 33 Oxford St, Cam
 
 ## Morning
 
+Materials for the morning session available at https://talks.seandavis.net.
+
 ::: {.schedule}
 
 | Time | Session |
